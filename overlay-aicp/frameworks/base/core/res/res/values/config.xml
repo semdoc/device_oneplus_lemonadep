@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 AICP
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Fingerprint from stock ROM -->
+    <string name="config_stockFingerprint" translatable="false">OnePlus/OnePlus9Pro/OnePlus9Pro:13/TP1A.220905.001/R.ec623c-2-1c7:user/release-keys</string>
+
+</resources>
